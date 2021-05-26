@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gabriel 👋
 
 I'm studying Computer Science at Unisinos (São Leopoldo, RS - Brasil).  
 Working as frontend software developer at CWI Software since 2019.  
