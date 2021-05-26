@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm studying Computer Science at Unisinos (São Leopoldo, RS - Brasil).  
+Working as frontend software developer at CWI Software since 2019.  
+My main technologies are React and Flutter!
 <!--
 **gabrielsh2/gabrielsh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
